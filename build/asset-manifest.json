@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23c2cbc2.css",
+    "main.js": "/static/js/main.5d6aa81f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Traveller 1.svg": "/static/media/Traveller 1.185b95ce9031d6c06cf7670dbf9db98e.svg",
+    "static/media/booking.png": "/static/media/booking.95216cd4af0da4d99ef9.png",
+    "static/media/Rome.png": "/static/media/Rome.7c5f6fe35780314fc918.png",
+    "static/media/London.png": "/static/media/London.981e1049e452b1c00b1d.png",
+    "static/media/Europe.png": "/static/media/Europe.f2b848d96464cb6cd5dd.png",
+    "static/media/Group 78.png": "/static/media/Group 78.042fde11cc606d77fb78.png",
+    "static/media/Play button.png": "/static/media/Play button.56ee78b6ccf3aa48bfcb.png",
+    "static/media/Image.png": "/static/media/Image.d14e1b5f71ae65fbd7d2.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.23c2cbc2.css.map": "/static/css/main.23c2cbc2.css.map",
+    "main.5d6aa81f.js.map": "/static/js/main.5d6aa81f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c2cbc2.css",
+    "static/js/main.5d6aa81f.js"
+  ]
+}
